@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "todolib",
+  "todogtk"
+]
+
+
